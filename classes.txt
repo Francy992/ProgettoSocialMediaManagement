@@ -1,0 +1,2 @@
+Gatto,0
+Cane,1
